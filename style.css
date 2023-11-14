@@ -1,0 +1,38 @@
+body {
+    background-color: gray;
+}
+
+.box {
+    margin: 50px auto;
+    padding: 20px;
+    width: 600px;
+    height: 680px;
+    border: 50px solid;
+    border-image: url(file:///C:/Users/COMPUTER%20POINT/Downloads/border-image%20.png)stretch;
+    border-image-slice: 25%;
+    border-image-repeat: repeat;
+
+
+}
+
+img {}
+
+p {
+
+    min-width: 200px;
+
+    text-align: left;
+    min-height: 100px;
+    max-height: 200px;
+    padding: 5px;
+    margin: 0px;
+    overflow: scroll;
+}
+
+p {
+    text-align: center;
+}
+
+
+
+border-image: url(file:///C:/Users/COMPUTER%20POINT/Downloads/border-image%20(2).png) 30 round;
